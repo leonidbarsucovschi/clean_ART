@@ -205,6 +205,14 @@
     .header__btn {
         display: none;
     }
+
+    .about__title {
+
+        text-align: center;
+        line-height: 1.2;
+    }
+
+
 }
 
 
